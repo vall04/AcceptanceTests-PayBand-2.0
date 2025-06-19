@@ -1,8 +1,7 @@
 Feature: Interactividad visual con imágenes
 
   Como usuario
-  Quiero tener imágenes interactivas
-  Para que la página sea más amigable y dinámica
+  Quiero tener imágenes interactivas para que la página sea más amigable y dinámica
 
   Scenario: Interacción con imagen al pasar el cursor
     Given que el usuario visualiza una imagen en la sección principal
