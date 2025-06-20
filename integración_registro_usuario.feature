@@ -1,4 +1,4 @@
-Feature:US01 - Registro de usuario
+Feature:Registro de usuario
 
 Como pasajero
 Quiero validar mis datos personales al registrarme para asegurarme de que mi información sea correcta
